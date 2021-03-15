@@ -5,9 +5,9 @@ Adaptive Computation and Machine Learning assignments as part of MSc(Data Scienc
 
 Exploration of factors influencing medical insurance costs. 
 
-### Dataset
+#### Dataset
 *Insurance Forecast using Linear Regression*. Found [here](https://www.kaggle.com/mirichoi0218/insurance).
 
-### Summary of Results
+#### Summary of Results
 
-## Assignment 2 - Linear Regression
+## Assignment 2 - Logistic Regression
