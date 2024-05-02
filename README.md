@@ -1,5 +1,5 @@
 # Machine Learning Assignments
-Adaptive Computation and Machine Learning assignments as part of MSc(Data Science).
+Machine Learning assignments as part of MSc(Data Science).
 
 ## Assignment 1 - Linear Regression
 
@@ -16,3 +16,5 @@ Using neural networks to distinguish walking from running using accelerometer an
 
 #### Dataset
 *Motion Classification using Neural Networks*. Found [here](https://www.kaggle.com/vmalyi/run-or-walk).
+
+#### Summary of Results
